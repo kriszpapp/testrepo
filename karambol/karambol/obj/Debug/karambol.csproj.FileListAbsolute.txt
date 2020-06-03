@@ -1,0 +1,9 @@
+C:\Users\Chakee\source\repos\karambol\karambol\bin\Debug\karambol.exe.config
+C:\Users\Chakee\source\repos\karambol\karambol\bin\Debug\karambol.exe
+C:\Users\Chakee\source\repos\karambol\karambol\bin\Debug\karambol.pdb
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.csprojAssemblyReference.cache
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.Karambol.resources
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.Properties.Resources.resources
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.csproj.GenerateResource.cache
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.exe
+C:\Users\Chakee\source\repos\karambol\karambol\obj\Debug\karambol.pdb
